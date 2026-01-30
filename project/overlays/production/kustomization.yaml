@@ -9,10 +9,10 @@ namespace: production
 images:
 - name: broadcaster-image
   newName: eplol/broadcaster
-  newTag: f6ce72332c7e20e77de7cfa52c13ed147ec4d708
+  newTag: e0e7f6d67f623f8d4927fbfa7d591b538807a3d5
 - name: todo-app-image
   newName: eplol/todo-app
-  newTag: f6ce72332c7e20e77de7cfa52c13ed147ec4d708
+  newTag: e0e7f6d67f623f8d4927fbfa7d591b538807a3d5
 - name: todo-backend-image
   newName: eplol/todo-backend
-  newTag: f6ce72332c7e20e77de7cfa52c13ed147ec4d708
+  newTag: e0e7f6d67f623f8d4927fbfa7d591b538807a3d5
